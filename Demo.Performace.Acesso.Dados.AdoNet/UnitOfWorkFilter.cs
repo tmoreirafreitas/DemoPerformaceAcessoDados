@@ -31,7 +31,7 @@ namespace Demo.Performace.Acesso.Dados.AdoNet
                 _logger.LogInformation(msg);
                 throw new NotSupportedException(msg);
             }
-
+            _work.GetTransaction();
             var executedContext = await next.Invoke();
             if (executedContext.Exception == null)
             {

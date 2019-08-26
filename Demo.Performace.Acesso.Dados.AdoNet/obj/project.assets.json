@@ -5540,23 +5540,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\ThiagoGMF\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
+      "projectUniqueName": "C:\\Users\\ThiagoGMF\\Source\\Repos\\DemoPerformaceAcessoDados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
       "projectName": "Demo.Performace.Acesso.Dados.AdoNet",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\obj\\",
+      "projectPath": "C:\\Users\\ThiagoGMF\\Source\\Repos\\DemoPerformaceAcessoDados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
+      "packagesPath": "C:\\Users\\ThiagoGMF\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ThiagoGMF\\Source\\Repos\\DemoPerformaceAcessoDados\\Demo.Performace.Acesso.Dados.AdoNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThiagoGMF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5564,13 +5564,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://tcerjvm21:8080/tfs/DefaultCollection/_packaging/PacotesTCE/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj"
+            "C:\\Users\\ThiagoGMF\\Source\\Repos\\DemoPerformaceAcessoDados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj": {
+              "projectPath": "C:\\Users\\ThiagoGMF\\Source\\Repos\\DemoPerformaceAcessoDados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj"
             }
           }
         }

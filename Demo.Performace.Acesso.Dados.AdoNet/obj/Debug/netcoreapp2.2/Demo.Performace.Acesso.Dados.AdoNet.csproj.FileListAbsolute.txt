@@ -10,3 +10,15 @@ C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.D
 C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csproj.CopyComplete
 C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.dll
 C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.pdb
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.deps.json
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.dll
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.pdb
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.dll
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.pdb
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csprojAssemblyReference.cache
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.AssemblyInfoInputs.cache
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.AssemblyInfo.cs
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csproj.CopyComplete
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.dll
+C:\Users\ThiagoGMF\Source\Repos\DemoPerformaceAcessoDados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.pdb

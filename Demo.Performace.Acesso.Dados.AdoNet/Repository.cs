@@ -67,6 +67,8 @@ namespace Demo.Performace.Acesso.Dados.AdoNet
 
         private void DefineQuery(string query, Dictionary<string, object> parameters = null)
         {
+            if (string.IsNullOrEmpty(query) || string.IsNullOrWhiteSpace(query))
+                throw new ArgumentNullException("É preciso definir uma query para execução da instrução SQL.");
             _command.CommandText = query;
             if (parameters != null)
             {
@@ -81,16 +83,18 @@ namespace Demo.Performace.Acesso.Dados.AdoNet
         }
 
         public T PopulateToSingle<T>(IDataReader reader) where T : new()
-        {
-            if (reader == null)
-               throw new Exception("");
+        {            
+            const string msg = "Objeto DataReader não foi inicializado ou está fechado...";
+            if (reader == null || reader.IsClosed)
+                throw new ArgumentNullException(msg);
             return reader.MapToSingle<T>();
         }
 
         public IList<T> PopulateToList<T>(IDataReader reader) where T : new()
         {
-            if (reader == null)
-                throw new Exception("");
+            const string msg = "Objeto DataReader não foi inicializado ou está fechado...";
+            if (reader == null || reader.IsClosed)
+                throw new ArgumentNullException(msg);
             return reader.MapToList<T>();
         }
     }
