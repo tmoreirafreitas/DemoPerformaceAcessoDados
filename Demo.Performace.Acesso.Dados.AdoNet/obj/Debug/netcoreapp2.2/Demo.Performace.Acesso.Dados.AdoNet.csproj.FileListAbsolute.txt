@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.deps.json
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.dll
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.pdb
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.dll
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.pdb
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.csproj.CopyComplete
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.dll
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Dados.AdoNet\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Dados.AdoNet.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Performace.Acesso.Dados.AdoNet", "Demo.Performace.Acesso.Dados.AdoNet\Demo.Performace.Acesso.Dados.AdoNet.csproj", "{27DC4D0D-B92F-471D-BEE9-5DE9D59D5EFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Performace.Acesso.Domain", "Demo.Performace.Acesso.Domain\Demo.Performace.Acesso.Domain.csproj", "{564FFAFE-0B87-41B5-893A-CBA2CE9474F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27DC4D0D-B92F-471D-BEE9-5DE9D59D5EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DC4D0D-B92F-471D-BEE9-5DE9D59D5EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DC4D0D-B92F-471D-BEE9-5DE9D59D5EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DC4D0D-B92F-471D-BEE9-5DE9D59D5EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564FFAFE-0B87-41B5-893A-CBA2CE9474F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564FFAFE-0B87-41B5-893A-CBA2CE9474F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564FFAFE-0B87-41B5-893A-CBA2CE9474F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564FFAFE-0B87-41B5-893A-CBA2CE9474F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A456EF38-5DEE-4542-A2E4-A4F7D6138ED0}
+	EndGlobalSection
+EndGlobal

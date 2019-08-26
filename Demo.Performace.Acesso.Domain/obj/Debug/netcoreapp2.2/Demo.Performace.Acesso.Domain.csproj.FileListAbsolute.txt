@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.deps.json
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.dll
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\bin\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.pdb
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.dll
+C:\Users\User\source\repos\Demo.Performace.Acesso.Dados\Demo.Performace.Acesso.Domain\obj\Debug\netcoreapp2.2\Demo.Performace.Acesso.Domain.pdb

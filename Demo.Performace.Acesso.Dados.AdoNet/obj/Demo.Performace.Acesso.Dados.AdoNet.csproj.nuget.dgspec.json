@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
+        "projectName": "Demo.Performace.Acesso.Dados.AdoNet",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\Demo.Performace.Acesso.Dados.AdoNet.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Dados.AdoNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj",
+        "projectName": "Demo.Performace.Acesso.Domain",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\Demo.Performace.Acesso.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Demo.Performace.Acesso.Dados\\Demo.Performace.Acesso.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
